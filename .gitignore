@@ -15,7 +15,6 @@
 *.ind
 *.inx
 *.dvi
-*.pdf
 *.ps
 *.eps
 *.nav
